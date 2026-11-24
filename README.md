@@ -21,8 +21,6 @@ support Big Sur - Tahoe
 
 * **macOS Sequoia (e.g. 15.8.3):** Boots and runs with graphics acceleration enabled (no 7MB fallback).
 * **macOS Tahoe:** Boots and reaches the desktop, though UI effects can feel heavy on 4 GB RAM and dual-core Core m3 hardware.
-* **Older x86 macOS (High Sierra and later):** Supported depending on your `config.plist` and root patch setup.
-
 ---
 
 ## What Works & What Doesn't
