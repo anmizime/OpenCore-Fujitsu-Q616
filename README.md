@@ -2,7 +2,7 @@
 
 OpenCore EFI configuration built and tested on a **Fujitsu Stylistic Q616** tablet PC, including GPU spoofing / graphics patches to run newer x86 macOS versions (such as macOS Sequoia) alongside older releases.
 
-support Big Sur - Tahoe
+support Big Sur - Tahoe [Error sleep and shutdown on Thaoe olny]
 <img width="1920" height="1080" alt="lol" src="https://github.com/user-attachments/assets/af758bad-4688-4fae-bf32-0bd22160c364" />
 
 > ⚠️ **Important:** Generate your own **SMBIOS** (`SerialNumber`, `MLB`, `SmUUID`, `ROM`) before booting. Do not use placeholder or reused serials with an Apple ID.
